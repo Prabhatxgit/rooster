@@ -7,7 +7,8 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 
 # Page Configuration
 st.set_page_config(
-    page_title="Inbound Roster Automator",
+    page_title="Automated roaster of Inbound department FC
+",
     page_icon="📅",
     layout="wide"
 )
